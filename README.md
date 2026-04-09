@@ -1,5 +1,10 @@
 # Supply Chain Management
 # Team : Apes 
+#Leader- Paramkumar Patel (Param2402) M01043407
+#Secretary- Dhvani Patel (pateldhvani0302-ops) M01044472
+#Dev-1- Krishkumar Patel (krishpatel911) M01052647
+#Dev-2- Harcharansingh Chandok (harcharansinghchandok-lang) M01054864
+#Tester- Nisarg Patel (n2423125-hue) M01046054
 
 Project Overview
 The following paper is an account of a C#.Net console application that was created in imitation of the inventory management processes of a furnishing warehouse. The implementation depends on Binary Search Tree (BST) designed and built customly that acts as the key in-memory data storing and is connected to a Microsoft SQL Server database called SupplyChainDb to guarantee the presence of persistent data storage.
